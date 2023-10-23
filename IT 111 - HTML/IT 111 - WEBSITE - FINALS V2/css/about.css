@@ -1,0 +1,109 @@
+body {
+     background: #F2E6DC;
+	 font-family: 'Lovelo', sans-serif;
+}
+.navbar {
+background-color: #f3b7a4;
+}
+.navbar-nav .nav-link:hover {
+	border-radius: 10px;
+	background-color: #8B855C;
+	padding: 1px;
+	transform: scale(1.1);
+	transition: 1s;	
+	font-weight: bold;
+} 
+.nav-link {
+    font-weight: bold;
+}
+.homepic {
+    max-width: 550px;
+    border-radius: 50%;
+    border: 10px solid #FFD2C1;
+    
+}
+.navbar-brand:hover {
+	transform: scale(1.3);
+	transition: 1s;
+}
+.row {
+	padding: 20px;
+    padding-bottom: 30px;
+}
+span {
+    font-weight: bold;
+}
+.card-img-top {
+	height: 100px;
+    width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card-title {
+	font-size: 25px;
+	color: black;
+}
+.card {
+    padding-top: 5%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	color: #8B855C;
+	background: #F2E6DC;
+	width: 250px;
+	text-align: center;
+}
+.card:hover {
+    background-color: #f3b7a4;
+    transform: scale(1.1);
+    color: black;
+    transition: .3s;
+}
+.card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+.card button:hover {
+    color: #f3b7a4;
+    transition: .3s;
+}
+.card button {
+	font-size: 13px;
+}
+
+footer {
+	padding-top: 20px;
+}
+.balik{
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  bottom: 40px;
+  right: 50px;
+  line-height: 50px;
+  color:  #8B855C ;
+  font-size: 35px;
+}
+.balik:hover {
+	transform: scale(1.3);
+	color: #CB6A4D;
+	transition: 1s;
+}
+footer {
+    background-color: #FFD2C1;
+    color: black;
+    text-decoration:none;
+}
+.socials {
+    font-size: 50px;
+    text-decoration:none;
+    color: black;
+    }
+    .socials:hover {
+    color:#8B855C;
+}
