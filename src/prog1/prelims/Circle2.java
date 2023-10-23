@@ -1,4 +1,4 @@
-package prog1;
+package prog1.prelims;
 
 //The filename for the following source code must be Circle2.java
 /*

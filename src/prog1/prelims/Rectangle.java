@@ -1,12 +1,11 @@
-package prog1;
-
+package prog1.prelims;
 /**
  * Name: Garabiles, Vanness Sean M.
  * Programming Date: Aug 27, 2022
  * Activity Name and Number: Prelim Exercise Number 2
  */
 
-public class Circle {
+public class Rectangle {
     public static void main(String[] args) {
         /* Every variable must be declared with a data type with reference to the kind of
         value that is to be assigned to it. If the value for a radius is constrained to a
@@ -15,27 +14,25 @@ public class Circle {
         circumference and areaOfCircle must be respectively declared with the int, double
         and double data types as shown in the following lines
          */
-
-        int radius;
-        double circumference;
-        double areaOfCircle;
-
+        int length;
+        int width;
+        
         // Assignment statement that stores a value to a variable.
-        radius = 10;            //Assigns the integer value 10 to radius.
-
+        length = 10;        //Assigns the integer value 10 to length.
+        width = 5;          //Assigns the integer value 5 to width.
+        
         // A mathematical expression represents a value that may be assigned to a variable
-        circumference = 2 * 3.1416 * radius;
-        // Instead of typing 3.1.416, you may type Math.PI
-        areaOfCircle = 3.1416 * radius * radius;
+        int perimiter = 2*length + 2*width;
+        int area = length * width;
 
         System.out.println();
         System.out.println();
         System.out.println(" **********************************************************");
         System.out.println(" *                                                        *");
         System.out.println(" *                                                        *");
-        System.out.println(" *           Radius of circle is " + radius +"                       *");
-        System.out.println(" *           Circumference of circle is " + circumference + "                *");
-        System.out.println(" *           Area of circle is " + areaOfCircle +"                     *");
+        System.out.println(" *           The perimeter of the rectangle is " + perimiter +"         *");
+        System.out.println(" *           The area of the rectangle is " + area + "              *");
+        System.out.println(" *                                                        *");
         System.out.println(" *                                                        *");
         System.out.println(" *                                                        *");
         System.out.println(" **********************************************************");

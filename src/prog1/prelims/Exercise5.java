@@ -1,4 +1,4 @@
-package prog1;
+package prog1.prelims;
 import java.util.*;
 /*
 Name: GARABILES, VANNESS SEAN

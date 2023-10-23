@@ -1,4 +1,4 @@
-package prog1.midterms.demo;
+package prog1.demo;
 
 import javax.imageio.IIOException;
 import java.io.FileReader;

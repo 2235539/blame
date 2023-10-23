@@ -1,4 +1,4 @@
-package prog1;
+package prog1.prelims;
 /**
  * Name: Garabiles, Vanness Sean M.
  * Programming Date: Aug 27, 2022

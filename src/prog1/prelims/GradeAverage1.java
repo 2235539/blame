@@ -1,4 +1,4 @@
-package prog1;
+package prog1.prelims;
 
 /*
 Author: Garabiles, Vanness Sean M.

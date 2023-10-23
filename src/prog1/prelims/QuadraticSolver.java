@@ -1,4 +1,4 @@
-package prog1;
+package prog1.prelims;
 
 /*
 Name: Vanness Sean Garabiles

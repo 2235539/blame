@@ -1,4 +1,4 @@
-package prog1.midterms.demo;
+package prog1.demo;
 
 import java.io.FileWriter;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package prog1;
+package prog1.prelims;
 /**
  * Name: GARABILES, VANNESS SEAN
  * Programming Date: SEPT 3, 2022
